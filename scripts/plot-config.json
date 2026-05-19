@@ -7,10 +7,12 @@
     "deepgram",
     "elevenlabs",
     "google",
+    "mistral",
     "openai_realtime",
     "smallest",
     "soniox",
-    "speechmatics"
+    "speechmatics",
+    "xai"
   ],
   "display_names": {
     "assemblyai": "AssemblyAI",
@@ -20,10 +22,12 @@
     "deepgram": "Deepgram",
     "elevenlabs": "ElevenLabs",
     "google": "Google",
+    "mistral": "Mistral",
     "openai_realtime": "OpenAI",
     "smallest": "Smallest AI",
     "soniox": "Soniox",
-    "speechmatics": "Speechmatics"
+    "speechmatics": "Speechmatics",
+    "xai": "XAI"
   },
   "latency": ["median", "p95"],
   "output": "assets/"
